@@ -1,0 +1,8 @@
+205,31,ML researches
+34,1,Logistic
+65,39,Graphs applications
+11,8,Frontend
+490,12,Computer vision
+490,105,Networks
+99,73,Product marketing
+65,101,Front Deveopers
